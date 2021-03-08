@@ -1,0 +1,8 @@
+{
+   "name": "Vimcord",
+   "version": "0.0.1",
+   "description": "A powercord plugin to enable vimlike keybindings",
+   "author": "ThePenguin#9915",
+   "license": "Unlicensed",
+   "permissions": "gkeybinds"
+}
